@@ -1,1 +1,1 @@
-A client for streaming files to a server
+A client and server for streaming stuff
